@@ -1,0 +1,19 @@
+{
+  "name": "constructor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoojaTrikha/Constructor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PoojaTrikha/Constructor/issues"
+  },
+  "homepage": "https://github.com/PoojaTrikha/Constructor#readme"
+}
